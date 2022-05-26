@@ -19,4 +19,6 @@ alt + shift + click do mouse: seleciona a linha
 rodinha do mouse: seleciona linha
 ctrl + L: indenta o codigo
 ctrl + D: copia linha
+sout:
+psvm:
 
